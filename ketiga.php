@@ -34,4 +34,4 @@ return (1/3)*self::PHI*pow($jari_jari,2)*$tinggi;
 
 $nasi_tumpeng = new Kerucut;
 echo "volume kerucut yang jari jari 4cm dan tinggi 10cm yaitu".
-$hasil = $nasi_tumpeng ->volume(4,10). "cm3";
+$hasil = $nasi_tumpeng ->volume(4,10). "cm3"; 
