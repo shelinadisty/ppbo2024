@@ -1,0 +1,8 @@
+<?php
+
+
+$hp = new \App\Admin\HomePage();  // Menyebutkan namespace penuh
+$hp->tampil();
+
+$ma = new \App\Admin\ManajemenArtikel();  // Menyebutkan namespace penuh
+$ma->tambah();

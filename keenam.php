@@ -6,8 +6,6 @@
 require_once "Author";
 require_once "Publisher";
 require_once "Book";
-require_once "Author";
-
 
 $author = new Author();
 $author->name = "F. Scott Fitzgerald";
