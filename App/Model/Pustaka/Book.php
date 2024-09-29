@@ -20,7 +20,7 @@ public function showAll() {
         'Publisher' => $this -> publisher,
     ];
 
-}
+} 
 
 public function detail($ISBN) {
     if ($this->ISBN == $ISBN) {

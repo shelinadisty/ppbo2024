@@ -10,3 +10,4 @@ class TenagaKependidikan extends Pegawai {
     }
 }
 ?>
+ 
